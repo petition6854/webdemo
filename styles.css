@@ -1,0 +1,51 @@
+/* Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #3c3c3c;
+    color: whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+
+/* Nav Styles */
+nav {
+    background-color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+a.active {
+    background-color: #646473;
+    color: white;
+}
+
+/* Content Styles */
+.content {
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
