@@ -29,16 +29,18 @@ a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    border-radius: 6px;
+    transition: all 0.3s linear;
 }
 
 a:hover {
-    background-color: #ddd;
+    background-color: rgba(221, 221, 221, 0.9);
     color: black;
 }
 
 a.active {
-    background-color: #646473;
-    color: white;
+    background-color: #ddd;
+    color: black;
 }
 
 /* Content Styles */
