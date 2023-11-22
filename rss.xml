@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+
+    <title>Webpage RSS Feed</title>
+        <link>https://petition6854.github.io/webdemo/rss.xml</link>
+    <description>RSS Feed of website information.</description>
+
+    <item>
+        <title>Home</title>
+        <link>https://petition6854.github.io/webdemo/index.html</link>
+        <description>The home page of the website.</description>
+    </item>
+
+    <item>
+        <title>Events</title>
+        <link>https://petition6854.github.io/webdemo/events.html</link>
+        <description>The events page of the website.</description>
+    </item>
+
+    <item>
+        <title>About</title>
+        <link>https://petition6854.github.io/webdemo/about.html</link>
+        <description>The about page of the website.</description>
+    </item>
+
+</channel>
+
+</rss>
