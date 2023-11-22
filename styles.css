@@ -29,7 +29,7 @@ a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    transition: all 0.1s linear;
+    transition: all 0.2s linear;
 }
 
 a:hover {
@@ -41,6 +41,7 @@ a:hover {
 a.active {
     background-color: #ddd;
     color: black;
+    border-radius: 0px;
 }
 
 /* Content Styles */
