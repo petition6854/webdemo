@@ -29,13 +29,13 @@ a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    transition: all 0.3s linear;
+    transition: all 0.1s linear;
 }
 
 a:hover {
-    background-color: rgba(221, 221, 221, 0.9);
+    background-color: #ddd;
     color: black;
-    border-radius: 6px;
+    border-radius: 12px;
 }
 
 a.active {
