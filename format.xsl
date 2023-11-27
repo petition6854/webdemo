@@ -4,7 +4,7 @@
 <xsl:for-each select="rss/events/event">
     <div style="background-color:#4d4dff;color:white;padding:8px">
         <span style="font-weight:bold"><xsl:value-of select="title"/> - </span>
-        <xsl:value-of select="date"/>
+        <xsl:value-of style="font-size:18px" select="date"/>
     </div>
     <div style="margin-left:20px;margin-top:1em;margin-bottom:1em;color:white;font-size:20px">
         <p>
