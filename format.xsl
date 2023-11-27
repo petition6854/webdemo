@@ -5,7 +5,7 @@
     <div style="background-color:#4d4dff;color:white;padding;4px">
         <span style="font-weight:bold"><xsl:value-of select="title"/> - </span>
     </div>
-    <div style="margin-left:20px;margin-bottom:1em;font-size:10pt">
+    <div style="margin-left:20px;margin-bottom:1em;color:white;font-size:10pt">
         <p>
         <xsl:value-of select="description"/>
         </p>
