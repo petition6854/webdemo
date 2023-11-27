@@ -7,7 +7,7 @@
         <span style="font-size:18px"><xsl:value-of select="date"/></span>
     </div>
     <div style="margin-left:20px;margin-top:0.5em;margin-bottom:1em;color:white;font-size:20px">
-        <p>
+        <p style="margin-top:0px">
         <xsl:value-of select="description"/>
         </p>
     </div>
