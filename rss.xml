@@ -1,28 +1,37 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="format.xsl"?>
 <rss version="2.0">
 
-<channel>
+<events>
 
     <title>Webpage RSS Feed</title>
     <link>https://petition6854.github.io/webdemo/rss.xml</link>
     <description>RSS Feed of website information.</description>
 
     <item>
-        <title>Home</title>
-        <description>The home page of the website.</description>
+        <title>Christmas Eve</title>
+        <date>SUN, DECEMBER 24TH, 2023</date>
+        <description>The night before Christmas! Spend time with the ones you love and prepare for the excitement of gift-giving in the morning!</description>
     </item>
 
     <item>
-        <title>Events</title>
-        <description>The events page of the website.</description>
+        <title>Christmas Day</title>
+        <date>MON, DECEMBER 25TH, 2023</date>
+        <description>Christmas Day! No school, no work, just snow, stockings, and presents! We hope you have the happiest of holidays.</description>
     </item>
 
     <item>
-        <title>About</title>
-        <description>The about page of the website.</description>
+        <title>New Years' Eve</title>
+        <date>SUN, DECEMBER 31ST, 2023</date>
+        <description>The last night of the year! Break out the music, the confetti, and the silly hats. Make sure to spend all the time with the people closest to you; you won't see them 'till next year!</description>
     </item>
 
-</channel>
+    <item>
+        <title>New Years' Day</title>
+        <date>MON, JANUARY 1ST, 2024</date>
+        <description>"Happy New Year! Make those resolutions last as long as you can 😉</description>
+    </item>
+
+<events>
 
 </rss>
