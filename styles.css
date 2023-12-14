@@ -30,7 +30,7 @@ a {
     padding: 14px 16px;
     text-decoration: none;
     border-bottom: 2px transparent;
-    transition: all 0.3s linear;
+    transition: all 0.15s linear;
 }
 
 a:hover {
